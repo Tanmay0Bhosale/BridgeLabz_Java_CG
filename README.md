@@ -37,3 +37,5 @@
 - **28-Jan-2026(Wed):** Completed Java Generics from Collections and Streams, revising DSA for review
 - **29-Jan-2026(Thu):** Completed Collections and Started with Factory Robot hazard Analyzer
 - **30-Jan-2026(Fri):** Completed the Factory Robot Hazard Analyzer and Given DSA review
+- **31-Jan-2026(Sat):** Started the Java Stream Questions and revised DSA Questions for written test
+- **1-Feb-2026(Mon):** Completed Java Streams Questions, given DSA written test and started Java Exceptions Questions.
