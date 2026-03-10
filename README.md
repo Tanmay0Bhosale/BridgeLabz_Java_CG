@@ -39,3 +39,36 @@
 - **30-Jan-2026(Fri):** Completed the Factory Robot Hazard Analyzer and Given DSA review
 - **31-Jan-2026(Sat):** Started the Java Stream Questions and revised DSA Questions for written test
 - **1-Feb-2026(Mon):** Completed Java Streams Questions, given DSA written test and started Java Exceptions Questions.
+- **01-Feb-2026(Sun):** Revised Java Streams and practiced Stream API problems
+- **02-Feb-2026(Mon):** Completed Java IO Streams concepts and started working on Java Exceptions
+- **03-Feb-2026(Tue):** Practiced Exception Handling programs and completed Exception assignments
+- **04-Feb-2026(Wed):** Started learning Java Regex and pattern matching basics
+- **05-Feb-2026(Thu):** Completed Regex exercises and started learning JUnit testing
+- **06-Feb-2026(Fri):** Practiced JUnit test cases for previous Java programs and debugging
+- **07-Feb-2026(Sat):** Attended first Power Skills session and revised Java Collections and Streams
+- **09-Feb-2026(Mon):** Gave DSA and Java review and practiced Stream API programs
+- **10-Feb-2026(Tue):** Continued practicing Stream API operations like filter, map and reduce
+- **11-Feb-2026(Wed):** Started IO Programming module and learned CSV Data Handling
+- **12-Feb-2026(Thu):** Implemented CSV file reading and writing programs
+- **13-Feb-2026(Fri):** Practiced CSV data parsing and file processing programs
+- **14-Feb-2026(Sat):** Attended Power Skills session and revised IO programming concepts
+- **16-Feb-2026(Mon):** Gave weekly review and started learning Java Annotations
+- **17-Feb-2026(Tue):** Practiced Reflection API and annotation examples
+- **18-Feb-2026(Wed):** Started studying Design Patterns and their real-world usage
+- **19-Feb-2026(Thu):** Implemented Singleton and Factory Design Pattern examples
+- **20-Feb-2026(Fri):** Practiced Design Pattern exercises and reviewed concepts
+- **21-Feb-2026(Sat):** Attended Power Skills session and revised Design Pattern concepts
+- **23-Feb-2026(Mon):** Started learning Java Multithreading and thread lifecycle
+- **24-Feb-2026(Tue):** Gave review and practiced multithreading synchronization examples
+- **25-Feb-2026(Wed):** Started MySQL Database module and installed MySQL
+- **26-Feb-2026(Thu):** Practiced database creation, tables and SQL queries
+- **27-Feb-2026(Fri):** Started JDBC Introduction and implemented database connectivity
+- **28-Feb-2026(Sat):** Attended Power Skills session and revised JDBC concepts
+- **02-Mar-2026(Mon):** Implemented JDBC Prepared Statements and CRUD operations
+- **03-Mar-2026(Tue):** Practiced JDBC Transactions and error handling programs
+- **04-Mar-2026(Wed):** Started Java Backend concepts and learned Tomcat Server
+- **05-Mar-2026(Thu):** Implemented basic Servlet program and deployed on Tomcat
+- **06-Mar-2026(Fri):** Started learning Spring Boot basics and project setup
+- **07-Mar-2026(Sat):** Attended Power Skills session and revised Spring Boot fundamentals
+- **09-Mar-2026(Mon):** Implemented simple Spring Boot REST API and tested endpoints and gave review on the topic JDBC,SQL and ER
+- **10-Mar-2026(Tue):** Revised Java Backend concepts including Servlet, JDBC and Spring Boot
