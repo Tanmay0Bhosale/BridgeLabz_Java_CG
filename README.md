@@ -72,3 +72,15 @@
 - **07-Mar-2026(Sat):** Attended Power Skills session and revised Spring Boot fundamentals
 - **09-Mar-2026(Mon):** Implemented simple Spring Boot REST API and tested endpoints and gave review on the topic JDBC,SQL and ER
 - **10-Mar-2026(Tue):** Revised Java Backend concepts including Servlet, JDBC and Spring Boot
+- **11-Mar-2026(Wed):** Began development using Spring REST APIs
+- **12-Mar-2026(Thu):** Practiced implementation of Spring REST APIs
+- **13-Mar-2026(Fri):** Revised Spring and Spring REST API concepts
+- **14-Mar-2026(Sat):** Attended Power Skills Session
+- **16-Mar-2026(Mon):** Reviewed previous concepts and strengthened understanding of Spring fundamentals
+- **17-Mar-2026(Tue):** Started Spring Framework with focus on Multi-Layer Architecture
+- **18-Mar-2026(Wed):** Attempted Mock Test and continued learning Spring concepts
+- **20-Mar-2026(Fri):** Completed initial setup of Spring Employee Payroll Application
+- **23-Mar-2026(Mon):** Prepared for Module 1 (M1) Assessment
+- **24-Mar-2026(Tue):** Attempted M1 Test and implemented next use case for Employee Payroll Application
+- **25-Mar-2026(Wed):** Started development of Address Book Application
+- **26-Mar-2026(Thu):** Completed use case implementation for Address Book Application  
