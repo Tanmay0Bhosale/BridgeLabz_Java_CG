@@ -84,3 +84,43 @@
 - **24-Mar-2026(Tue):** Attempted M1 Test and implemented next use case for Employee Payroll Application
 - **25-Mar-2026(Wed):** Started development of Address Book Application
 - **26-Mar-2026(Thu):** Completed use case implementation for Address Book Application  
+- **27-Mar-2026(Fri):** Completed Employee Payroll App with SQL integration and pushed updated code using GitFlow process
+- **28-Mar-2026(Sat):** Attended Power Skills session and revised backend concepts
+- **30-Mar-2026(Mon):** Started Spring Security concepts and implemented authentication basics
+- **31-Mar-2026(Tue):** Continued Spring Security implementation and practiced secured REST API endpoints
+- **01-Apr-2026(Wed):** Started Hospital Management System project, created project structure and modules
+- **02-Apr-2026(Thu):** Implemented HMS entity and service layers and worked on API development
+- **03-Apr-2026(Fri):** Continued Hospital Management System development and tested CRUD APIs
+- **04-Apr-2026(Sat):** Attended Power Skills session and improved communication and presentation skills
+- **06-Apr-2026(Mon):** Started Fundoo Notes App and created backend project setup
+- **07-Apr-2026(Tue):** Continued Fundoo Notes App and implemented REST APIs for notes operations
+- **08-Apr-2026(Wed):** Started JMS with Spring Boot and understood message queue concepts
+- **09-Apr-2026(Thu):** Implemented JMS producer and consumer modules
+- **10-Apr-2026(Fri):** Completed JMS integration using Spring Boot and tested message flow successfully
+- **11-Apr-2026(Sat):** Attended Power Skills session
+- **13-Apr-2026(Mon):** Started Spring Batch with Excel Processing and configured batch jobs
+- **14-Apr-2026(Tue):** Implemented Excel file reading and processing, tested batch execution flow
+- **15-Apr-2026(Wed):** Continued Spring Batch implementation and handled batch job configuration updates
+- **16-Apr-2026(Thu):** Improved batch execution and logging, tested multiple batch jobs
+- **17-Apr-2026(Fri):** Completed Spring Batch with Excel Processing project and pushed updated code to GitHub
+- **18-Apr-2026(Sat):** Attended Power Skills session
+- **19-Apr-2026(Sun):** Started BookStore Microservices project and configured microservice architecture
+- **20-Apr-2026(Mon):** Developed APIs for BookStore Microservices and worked on service layer implementation
+- **21-Apr-2026(Tue):** Implemented inter-service communication and tested API responses
+- **22-Apr-2026(Wed):** Continued BookStore Microservices development and worked on database integration
+- **23-Apr-2026(Thu):** Implemented additional microservice functionalities and improved project structure
+- **24-Apr-2026(Fri):** Continued testing and debugging for BookStore Microservices
+- **27-Apr-2026(Mon):** Completed BookStore Microservices project and revised Microservices architecture concepts
+- **28-Apr-2026(Tue):** Started AWS concepts and explored EC2 and IAM basics
+- **29-Apr-2026(Wed):** Practiced AWS EC2 instance setup and learned security groups and connectivity
+- **30-Apr-2026(Thu):** Continued AWS practice and worked on deployment basics
+- **01-May-2026(Fri):** Revised AWS services and deployment workflow
+- **02-May-2026(Sat):** Attended Power Skills session
+- **04-May-2026(Mon):** Started Digital Supply Chain Tracker project and understood project architecture and module distribution
+- **05-May-2026(Tue):** Implemented initial APIs for assigned service and configured project dependencies
+- **06-May-2026(Wed):** Attended M1 reattempt and revised Spring Boot and Microservices concepts
+- **07-May-2026(Thu):** Continued backend development for Digital Supply Chain Tracker and worked on database integration
+- **08-May-2026(Fri):** Tested REST APIs using Postman and fixed bugs in service implementation
+- **09-May-2026(Sat):** Worked on GitFlow collaboration and branch management, integrated latest code updates from team members
+- **11-May-2026(Mon):** Continued Digital Supply Chain Tracker implementation and reviewed service integration flow
+- **12-May-2026(Tue):** Continued project development and testing, verified API functionality and database operations
